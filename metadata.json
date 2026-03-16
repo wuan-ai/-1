@@ -1,0 +1,5 @@
+{
+  "name": "汉字字帖生成器",
+  "description": "根据输入的汉字生成同步生字字帖，包含拼音、笔顺和田字格，支持图片下载。",
+  "requestFramePermissions": []
+}
